@@ -10,6 +10,7 @@ int main()
         scanf("%d", &age);
         sum = sum + age;
     }
+    
     avg = sum / 10;
     printf("%.2lf\n", avg);
 
